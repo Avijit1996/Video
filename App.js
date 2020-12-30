@@ -1,13 +1,6 @@
 import React from 'react';
 import Video from 'react-native-video';
-import {
-  SafeAreaView,
-  StyleSheet,
-  ScrollView,
-  View,
-  Text,
-  StatusBar,
-} from 'react-native';
+import {StyleSheet} from 'react-native';
 
 const App = () => {
   return (
